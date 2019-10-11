@@ -1,0 +1,74 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lobster|Oxygen&display=swap');
+
+.title{
+    font-size: 4rem;
+    padding-top: 3rem;
+    color: rgb(245, 24, 135);
+    font-family: 'Lobster', cursive;
+}
+
+
+.circle{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: rgb(49, 49, 49);
+    margin: auto;
+}
+
+.odd{
+    background-color: rgb(13, 114, 128);
+}
+
+.even{
+    background-color: rgb(245, 24, 135);
+}
+
+.number{
+    padding-top: 3.7rem;
+    font-family: 'Lobster', cursive;
+    color: #ffffff;
+    font-size: 4rem;
+}
+
+
+.addButton{
+    background-color: rgb(113, 205, 218); 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-top: 3rem;
+    margin-right: 1rem;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.removeButton{
+    background-color: rgb(113, 205, 218); 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px;
+    margin-right: 1rem;
+    font-family: 'Oxygen', sans-serif;
+}
+
+.resetButton{
+    background-color: rgb(113, 205, 218); 
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 5px; 
+    font-family: 'Oxygen', sans-serif; 
+}
+
