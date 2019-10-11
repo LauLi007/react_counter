@@ -1,3 +1,13 @@
+LOBSTER COUNTER using React 
+
+
+
+____________________________
+
+
+
+
+
 <<<<<<< HEAD
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
